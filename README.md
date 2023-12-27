@@ -22,6 +22,10 @@ with implementing them functionalities and navigating between them.
  * Android Studio
 
 ## Try the App 📱
+ * Get the apk of the app from folder [**test_apk**](https://github.com/Mohamed-said-salah/auth-mobile-app/tree/main/test_apk)
+
+## Setup
+ * clone the repository and run the app on any plugged ios or android Emulator or physical device.
 
 ## ScreenShots 🖼️
 
