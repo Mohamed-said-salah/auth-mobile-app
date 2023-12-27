@@ -3,6 +3,28 @@
 it's an internship app that tests the ability on creating register, login, profile screens app
 with implementing them functionalities and navigating between them.
 
+## Languages and frameworks 📑
+
+ * Flutter
+ * Dart
+ * Apis
+
+## Packages 🔎
+ * http
+ * shared_prefrences
+
+## Features 🥇
+ * authenticating via api (login, register, logout)
+ * save your session locally so no need to login every time you open the app
+
+## IDEs 💻
+ * VS code
+ * Android Studio
+
+## Try the App 📱
+
+## ScreenShots 🖼️
+
 ## What was asked?
 Hello there, your task is to convert the following figma design into a mobile app:
 
@@ -28,25 +50,3 @@ Best of luck.
 ## Task Done ✅
 
 I solved the intern2grow task in just 1 day building the whole app from scratch.
-
-## Languages and frameworks 📑
-
- * Flutter
- * Dart
- * Apis
-
-## Packages 🔎
- * http
- * shared_prefrences
-
-## Features 🥇
- * authenticating via api (login, register, logout)
- * save your session locally so no need to login every time you open the app
-
-## IDEs 💻
- * VS code
- * Android Studio
-
-## Try the App 📱
-
-## ScreenShots 🖼️
