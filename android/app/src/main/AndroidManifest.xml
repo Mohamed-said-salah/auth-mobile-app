@@ -1,4 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- ** here we add our permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- ** here we add our permissions -->
     <application
         android:label="auth_mobile_app"
         android:name="${applicationName}"
