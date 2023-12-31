@@ -21,7 +21,7 @@ with implementing them functionalities and navigating between them.
  * VS code
  * Android Studio
 
-## Try the App 📱
+## Get the App 📱
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1n5346PT8cMZa95ULplYRfyZ17rZcOmaB/view?usp=drive_link)
 
 ## Setup 💽
